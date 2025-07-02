@@ -1,0 +1,31 @@
+sqlle elle kayıt yapınca dataview'de gözüksün
+
+Fatura işlemelrinde ad soyad aynı olunca ilk girilen müşteriye ekliyor ödeneceği / müşteri idsi eklenecek
+
+Fatura Geçmişini değiştirmek için güncelleme kısmı olucak
+
+Bu yanlışlık fatura geçmişinde işaretlenmesi için faturaya bool değerinde 'yanlis islem' adında sütün açılsın 
+güncellemesinde hata yapılanlar tiklensin(Geçmiş faturada tüm işlemler gözükeceği için)
+
+Kayıt sırasında yeni bir kişi oluşturulacağı zaman güncelle denildiğinde hata veriyor
+
+9-30
+her seans 10 dk ara
+19-00
+
+müşteri islemlerinde müsteri aramayı ayrı bir yer yapmayıp, kayıt yerine de ekleyebilirim 
+
+eğer faturada ödeme fazla girersen ödenecekten hata versin
+
+müşteri güncellenirse fatura gemişine kaydoldu olarak giriliyor ve tarihi yazmıyor, bu işleme alınmasın
+
+
+verileri exportlama ve dışarıdan gelen verileri importlama
+
+müsteir islemlerinde var olan müsteriyi güncellediğim zman fatura geçmişinde 
+
+
+cc
+
+
+
